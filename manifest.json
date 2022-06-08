@@ -1,5 +1,6 @@
 {
  "name": "Spensaka tour",
+ "background_color": "#000000",
  "theme_color": "#000000",
  "icons": [
   {
@@ -19,6 +20,5 @@
   }
  ],
  "start_url": "index.htm?installed=true",
- "background_color": "#000000",
  "display": "fullscreen"
 }
