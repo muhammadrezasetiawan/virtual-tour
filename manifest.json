@@ -1,22 +1,22 @@
 {
- "name": "Spensaka tour",
- "background_color": "#000000",
- "start_url": "index.htm?installed=true",
  "theme_color": "#000000",
+ "start_url": "index.htm?installed=true",
+ "background_color": "#000000",
+ "name": "Spensaka tour",
  "icons": [
   {
-   "type": "image/png",
    "sizes": "512x512",
+   "type": "image/png",
    "src": "icons/icon512.png"
   },
   {
-   "type": "image/png",
    "sizes": "192x192",
+   "type": "image/png",
    "src": "icons/icon192.png"
   },
   {
-   "type": "image/png",
    "sizes": "64x64",
+   "type": "image/png",
    "src": "icons/icon64.png"
   }
  ],
